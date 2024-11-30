@@ -47,5 +47,19 @@ Follow these steps to clone and run the application:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/ToushifAlam/weather-dashboard
-```
+   ```
 
+2. **Navigate to the Project Directory**
+   ```bash
+   cd weather-dashboard
+   ```
+
+3. **Install Dependencies**
+   ```bash
+   npm install
+   ```
+
+4. **Run the Application**
+   ```bash
+   npm run dev
+   ```
