@@ -4,7 +4,6 @@
 
 A simple and visually appealing React application that provides real-time weather updates for cities worldwide using the **OpenWeatherAPI**. Users can search for cities to check weather details, including temperature, humidity, and weather descriptions, along with a relevant image for the weather conditions.
 
----
 
 ## **Features**
 - **Search Functionality**: Easily search for weather details of any city.
@@ -12,14 +11,12 @@ A simple and visually appealing React application that provides real-time weathe
 - **Responsive Design**: User-friendly interface suitable for all devices.
 - **Weather Visualization**: Includes weather images matching current conditions.
 
----
 
 ## **Technologies Used**
 - **ReactJS**: Front-end framework.
 - **OpenWeatherAPI**: Fetches weather data.
 - **CSS**: Styling for the application.
 
----
 
 ## **Setup Instructions**
 
@@ -39,7 +36,6 @@ A simple and visually appealing React application that provides real-time weathe
      ```
    - [Download Git here](https://git-scm.com/).
 
----
 
 ### **Installation Steps**
 Follow these steps to clone and run the application:
@@ -105,7 +101,6 @@ Weather = Broken clouds, feels like -3.67°C
 
 
 
----
 
 ## **Screenshots**
 
