@@ -104,13 +104,13 @@ Weather = Broken clouds, feels like -3.67°C
 
 ## **Screenshots**
 
-   ![Delhi](https://Images/delhi.png)
+   ![Delhi](./Images/delhi.png)
 
-   ![Mumbai](https://Images/mumbai.png)
+   ![Mumbai](./Images/mumbai.png)
 
-   ![Gangtok](https://Images/gangtok.png)
+   ![Gangtok](./Images/gangtok.png)
 
-   ![Hyderabad](https://Images/hyderabad.png)
+   ![Hyderabad](./Images/hyderabad.png)
 
 
 
