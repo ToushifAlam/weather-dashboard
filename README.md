@@ -63,3 +63,66 @@ Follow these steps to clone and run the application:
    ```bash
    npm run dev
    ```
+
+
+
+## **API Key Configuration**
+To access the **OpenWeatherAPI**, follow these steps:
+
+### **Get an API Key**:
+1. Visit [OpenWeatherAPI](https://openweathermap.org/api) and sign up for a free account.
+2. Obtain your API key from the dashboard.
+
+### **Add the API Key**:
+1. Create a `.env` file in the project root directory.
+2. Add the following line to the `.env` file:
+   ```env
+   API_KEY=your_openweather_api_key
+   ```
+3. Replace your_openweather_api_key with your actual API key.
+
+
+### **Restart the Server**
+```bash
+npm run dev
+```
+
+## **Usage**
+1. **Enter a city name in the search bar.**
+2. **Click "Search" to fetch the weather details.**
+3. **View the city's temperature, humidity, weather description, and an image representing the weather conditions.**
+
+
+## **Sample Output**
+### **Example Weather Data for Switzerland**
+```mathematica
+Temperature = -1.74°C  
+Humidity = 85  
+Min Temp = -2.27°C  
+Max Temp = -1.25°C  
+Weather = Broken clouds, feels like -3.67°C  
+```
+
+
+
+---
+
+## **Screenshots**
+
+   ![Delhi](https://Images/delhi.png)
+
+   ![Mumbai](https://Images/mumbai.png)
+
+   ![Gangtok](https://Images/gangtok.png)
+
+   ![Hyderabad](https://Images/hyderabad.png)
+
+
+
+## **Owner**
+For any queries or suggestions, feel free to reach out:
+
+- **Author**: Md Toushif Alam  
+- **GitHub**: [ToushifAlam](https://github.com/ToushifAlam)
+
+
